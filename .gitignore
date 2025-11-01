@@ -1,28 +1,20 @@
-# Node / JS
+# Node / JavaScript
 node_modules/
 npm-debug.log
 yarn-error.log
 dist/
 build/
 
-# Python
-__pycache__/
-*.pyc
-.venv/
-venv/
-
-# Vite / React / TypeScript
+# Vite
 .vite/
-*.tsbuildinfo
-
-# Environment files
-.env
-.env.local
 
 # OS files
-Thumbs.db
 .DS_Store
+Thumbs.db
 
-# IDE settings
+# IDE
 .vscode/
 .idea/
+
+# Env
+.env
